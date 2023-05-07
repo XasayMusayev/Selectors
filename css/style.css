@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+.firstdiv{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+    height: 39rem;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+
+    
+
+}
+
+.firstdivv{
+    padding-top: 15rem;
+    color: #fff;
+
+}
+
+.firstdivv h1{
+    color: #fff;
+    font-size: 80px;
+    margin-bottom: 8px;
+
+    
+}
+
+.firstdivv span{
+    color: #fff;
+    font-size: 24px;
+    margin-top: 10px;
+
+}
+
+.second{
+    background-color: #fff;
+    text-align: center;
+    margin-top: 24px;
+    padding-left: 12rem;
+}
+.secondd{
+    text-align: left;
+    padding-left: 300px;
+}
+.second1{
+    width: fit-content;
+}
+.div1{
+    padding-right: 500px;
+
+}
+
+.div2{
+    padding-right: 440px;
+
+}
+.div3{
+    padding-right: 440px;
+
+}
+.div4{
+    padding-right: 400px;
+
+}
+.second1 h2{
+    color: #212529;
+    font-size: 36px;
+    margin: 30px 0 10px;
+    font-weight: bolder;
+}
+.second1 h3{
+    color: #212529;
+    font-size: 28px;
+    margin: 0px 0 10px;
+    font-weight: 100;
+
+
+}
+.second1 p{
+    color: #6c757d;
+    font-size: 18px;
+    margin: 0 0 32px;
+}
+.second1 hr{
+    margin-top: 24px;
+
+}
+.divarrow{
+
+    margin: 2rem 0rem 2rem 29rem;
+}
+
+.arrow{
+    color: #fff;
+    font-size: 14px;
+    background-color: #0085A1;
+    padding: 16px 28px;
+
+}
+
+footer{
+    padding-bottom: 5rem;
+}
